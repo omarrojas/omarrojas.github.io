@@ -1,2 +1,2 @@
 # omarrojas.github.io
-Página Pública de Pruba
+Página Pública de Prueba
