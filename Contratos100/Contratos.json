@@ -1,0 +1,1091 @@
+{
+    "nodes": [
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+          "ValorContratos": 103747800000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO ALIANZACOLPATRIA",
+          "ValorContratos": 229692000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCESIONARIA RUTA DEL CACAO SAS",
+          "ValorContratos": 139078459539
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "AGENCIA NACIONAL INMOBILIARIA VIRGILIO BARCO VARGAS",
+          "ValorContratos": 80824000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "HOSPITAL MILITAR CENTRAL",
+          "ValorContratos": 340506953743
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "NUEVO CAUCA S A S",
+          "ValorContratos": 80231973131
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO MECO MAGDALENA 039",
+          "ValorContratos": 120451689161
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "UNIÓN TEMPORAL LEGACY PROTECTION 2019",
+          "ValorContratos": 73598130083
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "AUTOPISTAS DEL NORDESTE SAS",
+          "ValorContratos": 65935109516
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCESION TRANSVERSAL DEL SISGA SAS",
+          "ValorContratos": 85398657362
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "BOGOTA DISTRITO CAPITAL",
+          "ValorContratos": 50623765962
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "PATRIMONIO AUTONOMO FONDO NACIONAL DEL TURISMO FONTUR",
+          "ValorContratos": 65004000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO VIA AMERICAS",
+          "ValorContratos": 73567181355
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "ICETEX",
+          "ValorContratos": 785257095797
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO FONDO DE ATENCION EN SALUD PPL 2019",
+          "ValorContratos": 153691056000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO HYCO",
+          "ValorContratos": 71690739042
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "VECTOR GEOPHYSICAL SAS EN REORGANIZACION",
+          "ValorContratos": 49035136060
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO FONDO DE ATENCION EN SALUD PPL 2017",
+          "ValorContratos": 51155016000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "YUMA CONCESIONARIA SA",
+          "ValorContratos": 185675000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCESIÓN ALTO MAGDALENA S A S",
+          "ValorContratos": 94059782293
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCESIÓN COSTERA CARTAGENA BARRANQUILLA SAS",
+          "ValorContratos": 145196293235
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO EL VIAJANO",
+          "ValorContratos": 50969104374
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO CONEXIÓN DEL TEQUENDAMA",
+          "ValorContratos": 320730525997
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCAY SA",
+          "ValorContratos": 131164457070
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO TRONCAL SAN ROQUE 2018",
+          "ValorContratos": 47672371880
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO FCP 2018",
+          "ValorContratos": 498355208814
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "PERIMETRAL ORIENTAL DE BOGOTA SAS",
+          "ValorContratos": 317133290022
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "ALIANZA FIDUCIARIA SA FIDEICOMISOS",
+          "ValorContratos": 270308000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "DESARROLLO VIAL AL MAR SAS",
+          "ValorContratos": 55932079304
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CSS CONSTRUCTORES S A",
+          "ValorContratos": 50000000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "AUTOVIA BUCARAMANGA PAMPLONA SAS",
+          "ValorContratos": 70818558035
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCESIONARIA VIAL DEL PACIFICO S A S",
+          "ValorContratos": 100499939948
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "INGREDION COLOMBIA SA",
+          "ValorContratos": 124647396602
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "DEPARTAMENTO DE ANTIOQUIA",
+          "ValorContratos": 171947918133
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "TRANSCARIBE SA",
+          "ValorContratos": 50000000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "UNION TEMPORAL PROTECCION 2019",
+          "ValorContratos": 60815244160
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "ALIADAS PARA EL PROGRESO SAS",
+          "ValorContratos": 85084867714
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "Banco República",
+          "ValorContratos": 310695956213
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "FIDUCIARIA BOGOTA SA",
+          "ValorContratos": 151687074901
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO",
+          "ValorContratos": 113829000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "UNION TEMPORAL ESQUEMAS DE PROTECCION 2020",
+          "ValorContratos": 48912432543
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "COMPUTADORES PARA EDUCAR",
+          "ValorContratos": 106388015710
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "FIDEICOMISOS PATRIMONIOS AUTONOMOS FIDUCIARIA LA PREVISORA SA",
+          "ValorContratos": 50386000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "SOCIEDAD CONCESIONARIA VIAL MONTES DE MARIA SAS",
+          "ValorContratos": 55322597073
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO LA LINEA 042",
+          "ValorContratos": 59627412317
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "EMPRESA NACIONAL PROMOTORA DEL DESARROLLO TERRITORIAL ENTERRITORIO",
+          "ValorContratos": 119630887247
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "DISTRITO ESPECIAL INDUSTRIAL Y PORTUARIO DE BARRANQUILLA",
+          "ValorContratos": 160596599917
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "ROSOBORONEXPORT SA",
+          "ValorContratos": 48206394314.27
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "FONDO ROTATORIO DE LA POLICIA NACIONAL",
+          "ValorContratos": 50797351638.2
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CORP DE CIENCIA Y TEC PARA EL DES DE LA IND NAVAL MARIT Y FLU",
+          "ValorContratos": 81948467190
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "UNION TEMPORAL AUDIFARMA MEDEX",
+          "ValorContratos": 69641785497.22
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "UNION TEMPORAL SOLUCIONES INFORMATICAS ELECTORALES 2019",
+          "ValorContratos": 197341122600
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "COMBUSTIBLES Y TRANSPORTES HERNANDEZ SA",
+          "ValorContratos": 50126411242.68
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "UNION TEMPORAL MEDIPOL 16",
+          "ValorContratos": 206641660076
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "DEPARTAMENTO DE BOYACA",
+          "ValorContratos": 111600000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO FFIE ALIANZA BBVA",
+          "ValorContratos": 197377361652
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "BMC BOLSA MERCANTIL DE COLOMBIA SA",
+          "ValorContratos": 51865000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "SOCIEDAD FIDUCIARIA DE DESARROLLO AGROPECUARIO SA FIDUAGRARIA SA",
+          "ValorContratos": 306458053944
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCESIÓN PACIFICO TRES SAS",
+          "ValorContratos": 85660554341
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO SES PUENTE MAGDALENA",
+          "ValorContratos": 110160942345
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "FIDEICOMISOS SOCIEDAD FIDUCIARIA DE OCCIDENTE SA",
+          "ValorContratos": 1290000000000
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "UNION TEMPORAL DISTRIBUCION PROCESOS ELECTORALES 2019",
+          "ValorContratos": 288822252581
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCESIONARIA VIAL UNIÓN DEL SUR SAS",
+          "ValorContratos": 120513915341
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONSORCIO MAGDALENA CONGISMUR",
+          "ValorContratos": 75844133987
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "FIDUCIARIA LA PREVISORA SA",
+          "ValorContratos": 1848449224721
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CORPORACION COLOMBIA INTERNACIONAL",
+          "ValorContratos": 47729382517
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "FIDUCIARIA DE OCCIDENTE SA FIDUOCCIDENTE SA",
+          "ValorContratos": 389450474878
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "IDEMIA IDENTITY SECURITY SUCURSAL COLOMBIA",
+          "ValorContratos": 51093032628
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "UNION TEMPORAL SENA DIGITAL",
+          "ValorContratos": 151479386741
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCESIONARIA NUEVA VIA AL MAR SAS",
+          "ValorContratos": 167121737135
+        },
+        {
+          "Tipo": "Beneficiario",
+          "Nombre": "CONCESIONARIA VIAL DEL ORIENTE S A S",
+          "ValorContratos": 129947720020
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "DEFENSA Y POLICIA",
+          "ValorContratos": 928693023701.37
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "CIENCIA Y TECNOLOGIA",
+          "ValorContratos": 50386000000
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "INTERIOR",
+          "ValorContratos": 183325806786
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "TRABAJO",
+          "ValorContratos": 359421814674
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "MINAS Y ENERGIA",
+          "ValorContratos": 49035136060
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "JUSTICIA Y DEL DERECHO",
+          "ValorContratos": 257163672000
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "HACIENDA",
+          "ValorContratos": 262433551632
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "COMUNICACIONES",
+          "ValorContratos": 106388015710
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "EDUCACION",
+          "ValorContratos": 2831083682170
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "HACIENDA - FONDO ADAPTACION",
+          "ValorContratos": 1290000000000
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "PRESIDENCIA DE LA REPUBLICA",
+          "ValorContratos": 498355208814
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "VIVIENDA, CIUDAD Y TERRITORIO",
+          "ValorContratos": 1139399954360
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "PLANEACION",
+          "ValorContratos": 67313287247
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "COMERCIO, INDUSTRIA Y TURISMO",
+          "ValorContratos": 65004000000
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "AGROPECUARIO",
+          "ValorContratos": 415686808528
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "TRANSPORTE",
+          "ValorContratos": 3360813831425
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "INCLUSION SOCIAL Y RECONCILIACION",
+          "ValorContratos": 354090940726
+        },
+        {
+          "Tipo": "Sector",
+          "Nombre": "REGISTRADURIA",
+          "ValorContratos": 537256407809
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINCOMERCIO INDUSTRIA TURISMO - GESTION GENERAL",
+          "ValorContratos": 65004000000
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINISTERIO DEL TRABAJO - GESTION GENERAL",
+          "ValorContratos": 104194627933
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINISTERIO EDUCACION NACIONAL - GESTION GENERAL",
+          "ValorContratos": 2831083682170
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "INSTITUTO NACIONAL DE VIAS",
+          "ValorContratos": 1377203297416
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "ValorContratos": 1139399954360
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINISTERIO DE DEFENSA NACIONAL - EJERCITO",
+          "ValorContratos": 48206394314.27
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "FONDO ADAPTACION",
+          "ValorContratos": 1290000000000
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL",
+          "ValorContratos": 537256407809
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "UNIDAD NACIONAL DE PROTECCION - UNP",
+          "ValorContratos": 183325806786
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "POLICIA NACIONAL - SALUD",
+          "ValorContratos": 206641660076
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "FONDO ÚNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+          "ValorContratos": 106388015710
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "DEPARTAMENTO ADMINISTRATIVO DE LA CIENCIA, TECNOLOGIA E INNOVACION - GESTION GENERAL",
+          "ValorContratos": 50386000000
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINISTERIO DE DEFENSA NACIONAL - FUERZA AEREA",
+          "ValorContratos": 50126411242.68
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINISTERIO DE HACIENDA Y CREDITO PUBLICO - GESTION GENERAL",
+          "ValorContratos": 262433551632
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINISTERIO DE DEFENSA NACIONAL - DIRECCION GENERAL MARITIMA - DIMAR",
+          "ValorContratos": 81948467190
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "ValorContratos": 354090940726
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINISTERIO DE DEFENSA NACIONAL - SALUD",
+          "ValorContratos": 410148739240.22
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "POLICIA NACIONAL - GESTION GENERAL",
+          "ValorContratos": 50797351638.2
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINISTERIO DE DEFENSA NACIONAL - GESTION GENERAL",
+          "ValorContratos": 80824000000
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "AGENCIA NACIONAL DE HIDROCARBUROS - ANH",
+          "ValorContratos": 49035136060
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "PRESIDENCIA DE LA REPUBLICA - GESTION GENERAL",
+          "ValorContratos": 498355208814
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "ValorContratos": 1983610534009
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+          "ValorContratos": 257163672000
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "MINAGRICULTURA - GESTION GENERAL",
+          "ValorContratos": 415686808528
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "DEPARTAMENTO DE PLANEACION - GESTION GENERAL",
+          "ValorContratos": 67313287247
+        },
+        {
+          "Tipo": "Entidad",
+          "Nombre": "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+          "ValorContratos": 255227186741
+        }
+      ],
+      "links": [
+        {
+          "Origen": "DEFENSA Y POLICIA",
+          "Destino": "POLICIA NACIONAL - GESTION GENERAL",
+          "ValorContratos": 50797351638.2
+        },
+        {
+          "Origen": "DEFENSA Y POLICIA",
+          "Destino": "MINISTERIO DE DEFENSA NACIONAL - SALUD",
+          "ValorContratos": 410148739240.22
+        },
+        {
+          "Origen": "TRANSPORTE",
+          "Destino": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "ValorContratos": 1983610534009
+        },
+        {
+          "Origen": "JUSTICIA Y DEL DERECHO",
+          "Destino": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+          "ValorContratos": 257163672000
+        },
+        {
+          "Origen": "DEFENSA Y POLICIA",
+          "Destino": "MINISTERIO DE DEFENSA NACIONAL - DIRECCION GENERAL MARITIMA - DIMAR",
+          "ValorContratos": 81948467190
+        },
+        {
+          "Origen": "DEFENSA Y POLICIA",
+          "Destino": "MINISTERIO DE DEFENSA NACIONAL - EJERCITO",
+          "ValorContratos": 48206394314.27
+        },
+        {
+          "Origen": "HACIENDA - FONDO ADAPTACION",
+          "Destino": "FONDO ADAPTACION",
+          "ValorContratos": 1290000000000
+        },
+        {
+          "Origen": "PRESIDENCIA DE LA REPUBLICA",
+          "Destino": "PRESIDENCIA DE LA REPUBLICA - GESTION GENERAL",
+          "ValorContratos": 498355208814
+        },
+        {
+          "Origen": "CIENCIA Y TECNOLOGIA",
+          "Destino": "DEPARTAMENTO ADMINISTRATIVO DE LA CIENCIA, TECNOLOGIA E INNOVACION - GESTION GENERAL",
+          "ValorContratos": 50386000000
+        },
+        {
+          "Origen": "TRABAJO",
+          "Destino": "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+          "ValorContratos": 255227186741
+        },
+        {
+          "Origen": "REGISTRADURIA",
+          "Destino": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL",
+          "ValorContratos": 537256407809
+        },
+        {
+          "Origen": "MINAS Y ENERGIA",
+          "Destino": "AGENCIA NACIONAL DE HIDROCARBUROS - ANH",
+          "ValorContratos": 49035136060
+        },
+        {
+          "Origen": "VIVIENDA, CIUDAD Y TERRITORIO",
+          "Destino": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "ValorContratos": 1139399954360
+        },
+        {
+          "Origen": "EDUCACION",
+          "Destino": "MINISTERIO EDUCACION NACIONAL - GESTION GENERAL",
+          "ValorContratos": 2831083682170
+        },
+        {
+          "Origen": "DEFENSA Y POLICIA",
+          "Destino": "MINISTERIO DE DEFENSA NACIONAL - GESTION GENERAL",
+          "ValorContratos": 80824000000
+        },
+        {
+          "Origen": "HACIENDA",
+          "Destino": "MINISTERIO DE HACIENDA Y CREDITO PUBLICO - GESTION GENERAL",
+          "ValorContratos": 262433551632
+        },
+        {
+          "Origen": "AGROPECUARIO",
+          "Destino": "MINAGRICULTURA - GESTION GENERAL",
+          "ValorContratos": 415686808528
+        },
+        {
+          "Origen": "PLANEACION",
+          "Destino": "DEPARTAMENTO DE PLANEACION - GESTION GENERAL",
+          "ValorContratos": 67313287247
+        },
+        {
+          "Origen": "INCLUSION SOCIAL Y RECONCILIACION",
+          "Destino": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "ValorContratos": 354090940726
+        },
+        {
+          "Origen": "TRABAJO",
+          "Destino": "MINISTERIO DEL TRABAJO - GESTION GENERAL",
+          "ValorContratos": 104194627933
+        },
+        {
+          "Origen": "DEFENSA Y POLICIA",
+          "Destino": "MINISTERIO DE DEFENSA NACIONAL - FUERZA AEREA",
+          "ValorContratos": 50126411242.68
+        },
+        {
+          "Origen": "INTERIOR",
+          "Destino": "UNIDAD NACIONAL DE PROTECCION - UNP",
+          "ValorContratos": 183325806786
+        },
+        {
+          "Origen": "COMUNICACIONES",
+          "Destino": "FONDO ÚNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+          "ValorContratos": 106388015710
+        },
+        {
+          "Origen": "DEFENSA Y POLICIA",
+          "Destino": "POLICIA NACIONAL - SALUD",
+          "ValorContratos": 206641660076
+        },
+        {
+          "Origen": "COMERCIO, INDUSTRIA Y TURISMO",
+          "Destino": "MINCOMERCIO INDUSTRIA TURISMO - GESTION GENERAL",
+          "ValorContratos": 65004000000
+        },
+        {
+          "Origen": "TRANSPORTE",
+          "Destino": "INSTITUTO NACIONAL DE VIAS",
+          "ValorContratos": 1377203297416
+        },
+        {
+          "Origen": "MINAGRICULTURA - GESTION GENERAL",
+          "Destino": "SOCIEDAD FIDUCIARIA DE DESARROLLO AGROPECUARIO SA FIDUAGRARIA SA",
+          "ValorContratos": 202263426011
+        },
+        {
+          "Origen": "POLICIA NACIONAL - SALUD",
+          "Destino": "UNION TEMPORAL MEDIPOL 16",
+          "ValorContratos": 206641660076
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "PERIMETRAL ORIENTAL DE BOGOTA SAS",
+          "ValorContratos": 317133290022
+        },
+        {
+          "Origen": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "Destino": "FIDUCIARIA BOGOTA SA",
+          "ValorContratos": 151687074901
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "NUEVO CAUCA S A S",
+          "ValorContratos": 80231973131
+        },
+        {
+          "Origen": "UNIDAD NACIONAL DE PROTECCION - UNP",
+          "Destino": "UNION TEMPORAL ESQUEMAS DE PROTECCION 2020",
+          "ValorContratos": 48912432543
+        },
+        {
+          "Origen": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL",
+          "Destino": "IDEMIA IDENTITY SECURITY SUCURSAL COLOMBIA",
+          "ValorContratos": 51093032628
+        },
+        {
+          "Origen": "MINAGRICULTURA - GESTION GENERAL",
+          "Destino": "FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO",
+          "ValorContratos": 113829000000
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONSORCIO SES PUENTE MAGDALENA",
+          "ValorContratos": 110160942345
+        },
+        {
+          "Origen": "MINISTERIO DEL TRABAJO - GESTION GENERAL",
+          "Destino": "SOCIEDAD FIDUCIARIA DE DESARROLLO AGROPECUARIO SA FIDUAGRARIA SA",
+          "ValorContratos": 104194627933
+        },
+        {
+          "Origen": "MINAGRICULTURA - GESTION GENERAL",
+          "Destino": "BMC BOLSA MERCANTIL DE COLOMBIA SA",
+          "ValorContratos": 51865000000
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "AUTOVIA BUCARAMANGA PAMPLONA SAS",
+          "ValorContratos": 70818558035
+        },
+        {
+          "Origen": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL",
+          "Destino": "UNION TEMPORAL DISTRIBUCION PROCESOS ELECTORALES 2019",
+          "ValorContratos": 288822252581
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONSORCIO TRONCAL SAN ROQUE 2018",
+          "ValorContratos": 47672371880
+        },
+        {
+          "Origen": "MINISTERIO DE DEFENSA NACIONAL - FUERZA AEREA",
+          "Destino": "COMBUSTIBLES Y TRANSPORTES HERNANDEZ SA",
+          "ValorContratos": 50126411242.68
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONCAY SA",
+          "ValorContratos": 131164457070
+        },
+        {
+          "Origen": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL",
+          "Destino": "UNION TEMPORAL SOLUCIONES INFORMATICAS ELECTORALES 2019",
+          "ValorContratos": 197341122600
+        },
+        {
+          "Origen": "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+          "Destino": "UNION TEMPORAL SENA DIGITAL",
+          "ValorContratos": 151479386741
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "ALIADAS PARA EL PROGRESO SAS",
+          "ValorContratos": 85084867714
+        },
+        {
+          "Origen": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "Destino": "INGREDION COLOMBIA SA",
+          "ValorContratos": 124647396602
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONSORCIO LA LINEA 042",
+          "ValorContratos": 59627412317
+        },
+        {
+          "Origen": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+          "Destino": "CONSORCIO FONDO DE ATENCION EN SALUD PPL 2017",
+          "ValorContratos": 51155016000
+        },
+        {
+          "Origen": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+          "Destino": "CONSORCIO FONDO DE ATENCION EN SALUD PPL 2019",
+          "ValorContratos": 153691056000
+        },
+        {
+          "Origen": "MINISTERIO DE DEFENSA NACIONAL - SALUD",
+          "Destino": "HOSPITAL MILITAR CENTRAL",
+          "ValorContratos": 340506953743
+        },
+        {
+          "Origen": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "Destino": "Banco República",
+          "ValorContratos": 98262404581
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "SOCIEDAD CONCESIONARIA VIAL MONTES DE MARIA SAS",
+          "ValorContratos": 55322597073
+        },
+        {
+          "Origen": "MINISTERIO DE DEFENSA NACIONAL - DIRECCION GENERAL MARITIMA - DIMAR",
+          "Destino": "CORP DE CIENCIA Y TEC PARA EL DES DE LA IND NAVAL MARIT Y FLU",
+          "ValorContratos": 81948467190
+        },
+        {
+          "Origen": "MINISTERIO EDUCACION NACIONAL - GESTION GENERAL",
+          "Destino": "FIDUCIARIA LA PREVISORA SA",
+          "ValorContratos": 1848449224721
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "DEPARTAMENTO DE ANTIOQUIA",
+          "ValorContratos": 53724739888
+        },
+        {
+          "Origen": "DEPARTAMENTO ADMINISTRATIVO DE LA CIENCIA, TECNOLOGIA E INNOVACION - GESTION GENERAL",
+          "Destino": "FIDEICOMISOS PATRIMONIOS AUTONOMOS FIDUCIARIA LA PREVISORA SA",
+          "ValorContratos": 50386000000
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONSORCIO EL VIAJANO",
+          "ValorContratos": 50969104374
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "DESARROLLO VIAL AL MAR SAS",
+          "ValorContratos": 55932079304
+        },
+        {
+          "Origen": "MINISTERIO DE HACIENDA Y CREDITO PUBLICO - GESTION GENERAL",
+          "Destino": "TRANSCARIBE SA",
+          "ValorContratos": 50000000000
+        },
+        {
+          "Origen": "MINISTERIO DE DEFENSA NACIONAL - SALUD",
+          "Destino": "UNION TEMPORAL AUDIFARMA MEDEX",
+          "ValorContratos": 69641785497.22
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "CONCESIÓN PACIFICO TRES SAS",
+          "ValorContratos": 85660554341
+        },
+        {
+          "Origen": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "Destino": "ALIANZA FIDUCIARIA SA FIDEICOMISOS",
+          "ValorContratos": 270308000000
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "DEPARTAMENTO DE BOYACA",
+          "ValorContratos": 111600000000
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "AUTOPISTAS DEL NORDESTE SAS",
+          "ValorContratos": 65935109516
+        },
+        {
+          "Origen": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "Destino": "BOGOTA DISTRITO CAPITAL",
+          "ValorContratos": 50623765962
+        },
+        {
+          "Origen": "FONDO ADAPTACION",
+          "Destino": "FIDEICOMISOS SOCIEDAD FIDUCIARIA DE OCCIDENTE SA",
+          "ValorContratos": 1290000000000
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "YUMA CONCESIONARIA SA",
+          "ValorContratos": 185675000000
+        },
+        {
+          "Origen": "MINISTERIO DE DEFENSA NACIONAL - GESTION GENERAL",
+          "Destino": "AGENCIA NACIONAL INMOBILIARIA VIRGILIO BARCO VARGAS",
+          "ValorContratos": 80824000000
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "CONCESIÓN COSTERA CARTAGENA BARRANQUILLA SAS",
+          "ValorContratos": 145196293235
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE HIDROCARBUROS - ANH",
+          "Destino": "VECTOR GEOPHYSICAL SAS EN REORGANIZACION",
+          "ValorContratos": 49035136060
+        },
+        {
+          "Origen": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "Destino": "CONSORCIO ALIANZACOLPATRIA",
+          "ValorContratos": 229692000000
+        },
+        {
+          "Origen": "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+          "Destino": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+          "ValorContratos": 103747800000
+        },
+        {
+          "Origen": "MINISTERIO DE HACIENDA Y CREDITO PUBLICO - GESTION GENERAL",
+          "Destino": "Banco República",
+          "ValorContratos": 212433551632
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "CONCESIONARIA VIAL DEL ORIENTE S A S",
+          "ValorContratos": 129947720020
+        },
+        {
+          "Origen": "UNIDAD NACIONAL DE PROTECCION - UNP",
+          "Destino": "UNION TEMPORAL PROTECCION 2019",
+          "ValorContratos": 60815244160
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONSORCIO MAGDALENA CONGISMUR",
+          "ValorContratos": 75844133987
+        },
+        {
+          "Origen": "FONDO ÚNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+          "Destino": "COMPUTADORES PARA EDUCAR",
+          "ValorContratos": 106388015710
+        },
+        {
+          "Origen": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "Destino": "DISTRITO ESPECIAL INDUSTRIAL Y PORTUARIO DE BARRANQUILLA",
+          "ValorContratos": 60596599917
+        },
+        {
+          "Origen": "MINISTERIO DE DEFENSA NACIONAL - EJERCITO",
+          "Destino": "ROSOBORONEXPORT SA",
+          "ValorContratos": 48206394314.27
+        },
+        {
+          "Origen": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "Destino": "DEPARTAMENTO DE ANTIOQUIA",
+          "ValorContratos": 118223178245
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONSORCIO CONEXIÓN DEL TEQUENDAMA",
+          "ValorContratos": 320730525997
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "CONCESIONARIA VIAL UNIÓN DEL SUR SAS",
+          "ValorContratos": 120513915341
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONSORCIO MECO MAGDALENA 039",
+          "ValorContratos": 120451689161
+        },
+        {
+          "Origen": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+          "Destino": "EMPRESA NACIONAL PROMOTORA DEL DESARROLLO TERRITORIAL ENTERRITORIO",
+          "ValorContratos": 52317600000
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "DISTRITO ESPECIAL INDUSTRIAL Y PORTUARIO DE BARRANQUILLA",
+          "ValorContratos": 100000000000
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONSORCIO HYCO",
+          "ValorContratos": 71690739042
+        },
+        {
+          "Origen": "MINISTERIO EDUCACION NACIONAL - GESTION GENERAL",
+          "Destino": "CONSORCIO FFIE ALIANZA BBVA",
+          "ValorContratos": 197377361652
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CONSORCIO VIA AMERICAS",
+          "ValorContratos": 73567181355
+        },
+        {
+          "Origen": "MINAGRICULTURA - GESTION GENERAL",
+          "Destino": "CORPORACION COLOMBIA INTERNACIONAL",
+          "ValorContratos": 47729382517
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "CONCESIONARIA RUTA DEL CACAO SAS",
+          "ValorContratos": 139078459539
+        },
+        {
+          "Origen": "DEPARTAMENTO DE PLANEACION - GESTION GENERAL",
+          "Destino": "EMPRESA NACIONAL PROMOTORA DEL DESARROLLO TERRITORIAL ENTERRITORIO",
+          "ValorContratos": 67313287247
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "CONCESIONARIA VIAL DEL PACIFICO S A S",
+          "ValorContratos": 100499939948
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "CONCESIÓN ALTO MAGDALENA S A S",
+          "ValorContratos": 94059782293
+        },
+        {
+          "Origen": "POLICIA NACIONAL - GESTION GENERAL",
+          "Destino": "FONDO ROTATORIO DE LA POLICIA NACIONAL",
+          "ValorContratos": 50797351638.2
+        },
+        {
+          "Origen": "UNIDAD NACIONAL DE PROTECCION - UNP",
+          "Destino": "UNIÓN TEMPORAL LEGACY PROTECTION 2019",
+          "ValorContratos": 73598130083
+        },
+        {
+          "Origen": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "Destino": "FIDUCIARIA DE OCCIDENTE SA FIDUOCCIDENTE SA",
+          "ValorContratos": 389450474878
+        },
+        {
+          "Origen": "MINISTERIO EDUCACION NACIONAL - GESTION GENERAL",
+          "Destino": "ICETEX",
+          "ValorContratos": 785257095797
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "CONCESION TRANSVERSAL DEL SISGA SAS",
+          "ValorContratos": 85398657362
+        },
+        {
+          "Origen": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "Destino": "CONCESIONARIA NUEVA VIA AL MAR SAS",
+          "ValorContratos": 167121737135
+        },
+        {
+          "Origen": "MINCOMERCIO INDUSTRIA TURISMO - GESTION GENERAL",
+          "Destino": "PATRIMONIO AUTONOMO FONDO NACIONAL DEL TURISMO FONTUR",
+          "ValorContratos": 65004000000
+        },
+        {
+          "Origen": "PRESIDENCIA DE LA REPUBLICA - GESTION GENERAL",
+          "Destino": "CONSORCIO FCP 2018",
+          "ValorContratos": 498355208814
+        },
+        {
+          "Origen": "INSTITUTO NACIONAL DE VIAS",
+          "Destino": "CSS CONSTRUCTORES S A",
+          "ValorContratos": 50000000000
+        }
+      ]
+}
