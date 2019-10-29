@@ -586,5 +586,506 @@
           "source": "DEFENSA Y POLICIA",
           "target": "MINISTERIO DE DEFENSA NACIONAL - SALUD",
           "ValorContratos": 410148739240.22
-        }      ]
+        },
+        {
+          "source": "TRANSPORTE",
+          "target": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "ValorContratos": 1983610534009
+        },
+        {
+          "source": "JUSTICIA Y DEL DERECHO",
+          "target": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+          "ValorContratos": 257163672000
+        },
+        {
+          "source": "DEFENSA Y POLICIA",
+          "target": "MINISTERIO DE DEFENSA NACIONAL - DIRECCION GENERAL MARITIMA - DIMAR",
+          "ValorContratos": 81948467190
+        },
+        {
+          "source": "DEFENSA Y POLICIA",
+          "target": "MINISTERIO DE DEFENSA NACIONAL - EJERCITO",
+          "ValorContratos": 48206394314.27
+        },
+        {
+          "source": "HACIENDA - FONDO ADAPTACION",
+          "target": "FONDO ADAPTACION",
+          "ValorContratos": 1290000000000
+        },
+        {
+          "source": "PRESIDENCIA DE LA REPUBLICA",
+          "target": "PRESIDENCIA DE LA REPUBLICA - GESTION GENERAL",
+          "ValorContratos": 498355208814
+        },
+        {
+          "source": "CIENCIA Y TECNOLOGIA",
+          "target": "DEPARTAMENTO ADMINISTRATIVO DE LA CIENCIA, TECNOLOGIA E INNOVACION - GESTION GENERAL",
+          "ValorContratos": 50386000000
+        },
+        {
+          "source": "TRABAJO",
+          "target": "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+          "ValorContratos": 255227186741
+        },
+        {
+          "source": "REGISTRADURIA",
+          "target": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL",
+          "ValorContratos": 537256407809
+        },
+        {
+          "source": "MINAS Y ENERGIA",
+          "target": "AGENCIA NACIONAL DE HIDROCARBUROS - ANH",
+          "ValorContratos": 49035136060
+        },
+        {
+          "source": "VIVIENDA, CIUDAD Y TERRITORIO",
+          "target": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "ValorContratos": 1139399954360
+        },
+        {
+          "source": "EDUCACION",
+          "target": "MINISTERIO EDUCACION NACIONAL - GESTION GENERAL",
+          "ValorContratos": 2831083682170
+        },
+        {
+          "source": "DEFENSA Y POLICIA",
+          "target": "MINISTERIO DE DEFENSA NACIONAL - GESTION GENERAL",
+          "ValorContratos": 80824000000
+        },
+        {
+          "source": "HACIENDA",
+          "target": "MINISTERIO DE HACIENDA Y CREDITO PUBLICO - GESTION GENERAL",
+          "ValorContratos": 262433551632
+        },
+        {
+          "source": "AGROPECUARIO",
+          "target": "MINAGRICULTURA - GESTION GENERAL",
+          "ValorContratos": 415686808528
+        },
+        {
+          "source": "PLANEACION",
+          "target": "DEPARTAMENTO DE PLANEACION - GESTION GENERAL",
+          "ValorContratos": 67313287247
+        },
+        {
+          "source": "INCLUSION SOCIAL Y RECONCILIACION",
+          "target": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "ValorContratos": 354090940726
+        },
+        {
+          "source": "TRABAJO",
+          "target": "MINISTERIO DEL TRABAJO - GESTION GENERAL",
+          "ValorContratos": 104194627933
+        },
+        {
+          "source": "DEFENSA Y POLICIA",
+          "target": "MINISTERIO DE DEFENSA NACIONAL - FUERZA AEREA",
+          "ValorContratos": 50126411242.68
+        },
+        {
+          "source": "INTERIOR",
+          "target": "UNIDAD NACIONAL DE PROTECCION - UNP",
+          "ValorContratos": 183325806786
+        },
+        {
+          "source": "COMUNICACIONES",
+          "target": "FONDO ÚNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+          "ValorContratos": 106388015710
+        },
+        {
+          "source": "DEFENSA Y POLICIA",
+          "target": "POLICIA NACIONAL - SALUD",
+          "ValorContratos": 206641660076
+        },
+        {
+          "source": "COMERCIO, INDUSTRIA Y TURISMO",
+          "target": "MINCOMERCIO INDUSTRIA TURISMO - GESTION GENERAL",
+          "ValorContratos": 65004000000
+        },
+        {
+          "source": "TRANSPORTE",
+          "target": "INSTITUTO NACIONAL DE VIAS",
+          "ValorContratos": 1377203297416
+        },
+        {
+          "source": "MINAGRICULTURA - GESTION GENERAL",
+          "target": "SOCIEDAD FIDUCIARIA DE DESARROLLO AGROPECUARIO SA FIDUAGRARIA SA",
+          "ValorContratos": 202263426011
+        },
+        {
+          "source": "POLICIA NACIONAL - SALUD",
+          "target": "UNION TEMPORAL MEDIPOL 16",
+          "ValorContratos": 206641660076
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "PERIMETRAL ORIENTAL DE BOGOTA SAS",
+          "ValorContratos": 317133290022
+        },
+        {
+          "source": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "target": "FIDUCIARIA BOGOTA SA",
+          "ValorContratos": 151687074901
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "NUEVO CAUCA S A S",
+          "ValorContratos": 80231973131
+        },
+        {
+          "source": "UNIDAD NACIONAL DE PROTECCION - UNP",
+          "target": "UNION TEMPORAL ESQUEMAS DE PROTECCION 2020",
+          "ValorContratos": 48912432543
+        },
+        {
+          "source": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL",
+          "target": "IDEMIA IDENTITY SECURITY SUCURSAL COLOMBIA",
+          "ValorContratos": 51093032628
+        },
+        {
+          "source": "MINAGRICULTURA - GESTION GENERAL",
+          "target": "FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO",
+          "ValorContratos": 113829000000
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONSORCIO SES PUENTE MAGDALENA",
+          "ValorContratos": 110160942345
+        },
+        {
+          "source": "MINISTERIO DEL TRABAJO - GESTION GENERAL",
+          "target": "SOCIEDAD FIDUCIARIA DE DESARROLLO AGROPECUARIO SA FIDUAGRARIA SA",
+          "ValorContratos": 104194627933
+        },
+        {
+          "source": "MINAGRICULTURA - GESTION GENERAL",
+          "target": "BMC BOLSA MERCANTIL DE COLOMBIA SA",
+          "ValorContratos": 51865000000
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "AUTOVIA BUCARAMANGA PAMPLONA SAS",
+          "ValorContratos": 70818558035
+        },
+        {
+          "source": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL",
+          "target": "UNION TEMPORAL DISTRIBUCION PROCESOS ELECTORALES 2019",
+          "ValorContratos": 288822252581
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONSORCIO TRONCAL SAN ROQUE 2018",
+          "ValorContratos": 47672371880
+        },
+        {
+          "source": "MINISTERIO DE DEFENSA NACIONAL - FUERZA AEREA",
+          "target": "COMBUSTIBLES Y TRANSPORTES HERNANDEZ SA",
+          "ValorContratos": 50126411242.68
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONCAY SA",
+          "ValorContratos": 131164457070
+        },
+        {
+          "source": "REGISTRADURIA NACIONAL DEL ESTADO CIVIL - GESTION GENERAL",
+          "target": "UNION TEMPORAL SOLUCIONES INFORMATICAS ELECTORALES 2019",
+          "ValorContratos": 197341122600
+        },
+        {
+          "source": "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+          "target": "UNION TEMPORAL SENA DIGITAL",
+          "ValorContratos": 151479386741
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "ALIADAS PARA EL PROGRESO SAS",
+          "ValorContratos": 85084867714
+        },
+        {
+          "source": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "target": "INGREDION COLOMBIA SA",
+          "ValorContratos": 124647396602
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONSORCIO LA LINEA 042",
+          "ValorContratos": 59627412317
+        },
+        {
+          "source": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+          "target": "CONSORCIO FONDO DE ATENCION EN SALUD PPL 2017",
+          "ValorContratos": 51155016000
+        },
+        {
+          "source": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+          "target": "CONSORCIO FONDO DE ATENCION EN SALUD PPL 2019",
+          "ValorContratos": 153691056000
+        },
+        {
+          "source": "MINISTERIO DE DEFENSA NACIONAL - SALUD",
+          "target": "HOSPITAL MILITAR CENTRAL",
+          "ValorContratos": 340506953743
+        },
+        {
+          "source": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "target": "Banco República",
+          "ValorContratos": 98262404581
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "SOCIEDAD CONCESIONARIA VIAL MONTES DE MARIA SAS",
+          "ValorContratos": 55322597073
+        },
+        {
+          "source": "MINISTERIO DE DEFENSA NACIONAL - DIRECCION GENERAL MARITIMA - DIMAR",
+          "target": "CORP DE CIENCIA Y TEC PARA EL DES DE LA IND NAVAL MARIT Y FLU",
+          "ValorContratos": 81948467190
+        },
+        {
+          "source": "MINISTERIO EDUCACION NACIONAL - GESTION GENERAL",
+          "target": "FIDUCIARIA LA PREVISORA SA",
+          "ValorContratos": 1848449224721
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "DEPARTAMENTO DE ANTIOQUIA",
+          "ValorContratos": 53724739888
+        },
+        {
+          "source": "DEPARTAMENTO ADMINISTRATIVO DE LA CIENCIA, TECNOLOGIA E INNOVACION - GESTION GENERAL",
+          "target": "FIDEICOMISOS PATRIMONIOS AUTONOMOS FIDUCIARIA LA PREVISORA SA",
+          "ValorContratos": 50386000000
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONSORCIO EL VIAJANO",
+          "ValorContratos": 50969104374
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "DESARROLLO VIAL AL MAR SAS",
+          "ValorContratos": 55932079304
+        },
+        {
+          "source": "MINISTERIO DE HACIENDA Y CREDITO PUBLICO - GESTION GENERAL",
+          "target": "TRANSCARIBE SA",
+          "ValorContratos": 50000000000
+        },
+        {
+          "source": "MINISTERIO DE DEFENSA NACIONAL - SALUD",
+          "target": "UNION TEMPORAL AUDIFARMA MEDEX",
+          "ValorContratos": 69641785497.22
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "CONCESIÓN PACIFICO TRES SAS",
+          "ValorContratos": 85660554341
+        },
+        {
+          "source": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "target": "ALIANZA FIDUCIARIA SA FIDEICOMISOS",
+          "ValorContratos": 270308000000
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "DEPARTAMENTO DE BOYACA",
+          "ValorContratos": 111600000000
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "AUTOPISTAS DEL NORDESTE SAS",
+          "ValorContratos": 65935109516
+        },
+        {
+          "source": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "target": "BOGOTA DISTRITO CAPITAL",
+          "ValorContratos": 50623765962
+        },
+        {
+          "source": "FONDO ADAPTACION",
+          "target": "FIDEICOMISOS SOCIEDAD FIDUCIARIA DE OCCIDENTE SA",
+          "ValorContratos": 1290000000000
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "YUMA CONCESIONARIA SA",
+          "ValorContratos": 185675000000
+        },
+        {
+          "source": "MINISTERIO DE DEFENSA NACIONAL - GESTION GENERAL",
+          "target": "AGENCIA NACIONAL INMOBILIARIA VIRGILIO BARCO VARGAS",
+          "ValorContratos": 80824000000
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "CONCESIÓN COSTERA CARTAGENA BARRANQUILLA SAS",
+          "ValorContratos": 145196293235
+        },
+        {
+          "source": "AGENCIA NACIONAL DE HIDROCARBUROS - ANH",
+          "target": "VECTOR GEOPHYSICAL SAS EN REORGANIZACION",
+          "ValorContratos": 49035136060
+        },
+        {
+          "source": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "target": "CONSORCIO ALIANZACOLPATRIA",
+          "ValorContratos": 229692000000
+        },
+        {
+          "source": "SERVICIO NACIONAL DE APRENDIZAJE (SENA)",
+          "target": "UNIVERSIDAD NACIONAL DE COLOMBIA",
+          "ValorContratos": 103747800000
+        },
+        {
+          "source": "MINISTERIO DE HACIENDA Y CREDITO PUBLICO - GESTION GENERAL",
+          "target": "Banco República",
+          "ValorContratos": 212433551632
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "CONCESIONARIA VIAL DEL ORIENTE S A S",
+          "ValorContratos": 129947720020
+        },
+        {
+          "source": "UNIDAD NACIONAL DE PROTECCION - UNP",
+          "target": "UNION TEMPORAL PROTECCION 2019",
+          "ValorContratos": 60815244160
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONSORCIO MAGDALENA CONGISMUR",
+          "ValorContratos": 75844133987
+        },
+        {
+          "source": "FONDO ÚNICO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+          "target": "COMPUTADORES PARA EDUCAR",
+          "ValorContratos": 106388015710
+        },
+        {
+          "source": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "target": "DISTRITO ESPECIAL INDUSTRIAL Y PORTUARIO DE BARRANQUILLA",
+          "ValorContratos": 60596599917
+        },
+        {
+          "source": "MINISTERIO DE DEFENSA NACIONAL - EJERCITO",
+          "target": "ROSOBORONEXPORT SA",
+          "ValorContratos": 48206394314.27
+        },
+        {
+          "source": "INSTITUTO COLOMBIANO DE BIENESTAR FAMILIAR (ICBF)",
+          "target": "DEPARTAMENTO DE ANTIOQUIA",
+          "ValorContratos": 118223178245
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONSORCIO CONEXIÓN DEL TEQUENDAMA",
+          "ValorContratos": 320730525997
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "CONCESIONARIA VIAL UNIÓN DEL SUR SAS",
+          "ValorContratos": 120513915341
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONSORCIO MECO MAGDALENA 039",
+          "ValorContratos": 120451689161
+        },
+        {
+          "source": "UNIDAD DE SERVICIOS PENITENCIARIOS Y CARCELARIOS - USPEC",
+          "target": "EMPRESA NACIONAL PROMOTORA DEL DESARROLLO TERRITORIAL ENTERRITORIO",
+          "ValorContratos": 52317600000
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "DISTRITO ESPECIAL INDUSTRIAL Y PORTUARIO DE BARRANQUILLA",
+          "ValorContratos": 100000000000
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONSORCIO HYCO",
+          "ValorContratos": 71690739042
+        },
+        {
+          "source": "MINISTERIO EDUCACION NACIONAL - GESTION GENERAL",
+          "target": "CONSORCIO FFIE ALIANZA BBVA",
+          "ValorContratos": 197377361652
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CONSORCIO VIA AMERICAS",
+          "ValorContratos": 73567181355
+        },
+        {
+          "source": "MINAGRICULTURA - GESTION GENERAL",
+          "target": "CORPORACION COLOMBIA INTERNACIONAL",
+          "ValorContratos": 47729382517
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "CONCESIONARIA RUTA DEL CACAO SAS",
+          "ValorContratos": 139078459539
+        },
+        {
+          "source": "DEPARTAMENTO DE PLANEACION - GESTION GENERAL",
+          "target": "EMPRESA NACIONAL PROMOTORA DEL DESARROLLO TERRITORIAL ENTERRITORIO",
+          "ValorContratos": 67313287247
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "CONCESIONARIA VIAL DEL PACIFICO S A S",
+          "ValorContratos": 100499939948
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "CONCESIÓN ALTO MAGDALENA S A S",
+          "ValorContratos": 94059782293
+        },
+        {
+          "source": "POLICIA NACIONAL - GESTION GENERAL",
+          "target": "FONDO ROTATORIO DE LA POLICIA NACIONAL",
+          "ValorContratos": 50797351638.2
+        },
+        {
+          "source": "UNIDAD NACIONAL DE PROTECCION - UNP",
+          "target": "UNIÓN TEMPORAL LEGACY PROTECTION 2019",
+          "ValorContratos": 73598130083
+        },
+        {
+          "source": "FONDO NACIONAL DE VIVIENDA - FONVIVIENDA",
+          "target": "FIDUCIARIA DE OCCIDENTE SA FIDUOCCIDENTE SA",
+          "ValorContratos": 389450474878
+        },
+        {
+          "source": "MINISTERIO EDUCACION NACIONAL - GESTION GENERAL",
+          "target": "ICETEX",
+          "ValorContratos": 785257095797
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "CONCESION TRANSVERSAL DEL SISGA SAS",
+          "ValorContratos": 85398657362
+        },
+        {
+          "source": "AGENCIA NACIONAL DE INFRAESTRUCTURA",
+          "target": "CONCESIONARIA NUEVA VIA AL MAR SAS",
+          "ValorContratos": 167121737135
+        },
+        {
+          "source": "MINCOMERCIO INDUSTRIA TURISMO - GESTION GENERAL",
+          "target": "PATRIMONIO AUTONOMO FONDO NACIONAL DEL TURISMO FONTUR",
+          "ValorContratos": 65004000000
+        },
+        {
+          "source": "PRESIDENCIA DE LA REPUBLICA - GESTION GENERAL",
+          "target": "CONSORCIO FCP 2018",
+          "ValorContratos": 498355208814
+        },
+        {
+          "source": "INSTITUTO NACIONAL DE VIAS",
+          "target": "CSS CONSTRUCTORES S A",
+          "ValorContratos": 50000000000
+        }
+      ]
 }
