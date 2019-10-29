@@ -578,13 +578,13 @@
       ],
       "links": [
         {
-          "Origen": "DEFENSA Y POLICIA",
-          "Destino": "POLICIA NACIONAL - GESTION GENERAL",
+          "source": "DEFENSA Y POLICIA",
+          "target": "POLICIA NACIONAL - GESTION GENERAL",
           "ValorContratos": 50797351638.2
         },
         {
-          "Origen": "DEFENSA Y POLICIA",
-          "Destino": "MINISTERIO DE DEFENSA NACIONAL - SALUD",
+          "source": "DEFENSA Y POLICIA",
+          "target": "MINISTERIO DE DEFENSA NACIONAL - SALUD",
           "ValorContratos": 410148739240.22
         }      ]
 }
